@@ -1,0 +1,30 @@
+
+
+.styleDonate {
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    border-radius: 8px;
+    margin: auto;
+    margin-top:  4% ;
+    width: 80%;
+}
+
+
+.ui.animated.button {
+    background: slateblue;
+    color: white;
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+
+.ui.form {
+    text-align: justify;
+    margin-bottom: 40px;
+}
+.centerDonat{
+    text-align: center;
+}
+.padingDonat{
+    padding: 0.5%;
+}

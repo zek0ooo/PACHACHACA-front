@@ -1,0 +1,15 @@
+
+
+.main_div_Newsletter{
+    margin: auto;
+    width: 80%;
+    margin-top: 4%;
+    font-family: sans-serif;
+}
+.newsletterStyle {
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    border-radius: 10px;
+    margin-top: 4%;
+}

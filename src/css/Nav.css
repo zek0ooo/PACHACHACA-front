@@ -1,0 +1,21 @@
+
+.main_div_HE{
+    background-color:rgba(15, 15, 17, 0.945);
+}
+
+.main_div_A{
+    width: 80%;
+    margin: 0 auto;
+    color:  white;
+}
+.ulN{
+    display: inline-block;
+}
+
+.color_div_{
+    margin-top: 1%;
+}
+.div_logo{
+    display: grid;
+    grid-template-columns: auto auto;
+}

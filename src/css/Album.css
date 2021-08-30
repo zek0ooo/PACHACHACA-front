@@ -1,0 +1,33 @@
+.albumSlider {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto; 
+}
+
+.albumImage {
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+}
+
+.darkmode-toggle {
+    z-index: 4;
+}
+
+.albumImage:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(2.1); 
+    z-index: 1;
+}
+
+.shadow {
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8); 
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}

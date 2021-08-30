@@ -1,0 +1,55 @@
+
+
+.main_div_about{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top:  4% ;
+}
+
+.div_about_shadow{
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    margin: 0em;
+    padding: 0 auto;
+    margin-top:  4% ;
+    padding: 0.05%;
+    border-radius: 10px;
+    /* height: auto; */
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    box-sizing: border-box;
+}
+.div_about_shadow p{
+    padding: 2%;
+    height: 300px;
+}
+.div_ourteam_shadow{
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    margin: 0em;
+    margin-top:  4% ;
+    padding: 0.05%;
+    border-radius: 10px;
+    height: auto;
+    font-family: sans-serif;
+    position: relative;
+}
+.ourteam { 
+    margin: 0 auto;
+}
+
+.darkmode--activated .div_about_shadow h1,.darkmode--activated .div_about_shadow h2{
+    color: purple;
+}
+.darkmode--activated .div_about_shadow p{
+    color: white;
+}
+
+.darkmode--activated .ui.fluid.card{
+    background-color: black;
+}

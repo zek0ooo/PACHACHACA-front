@@ -1,0 +1,36 @@
+
+
+.div-vision {
+  height: auto;
+  margin: auto;
+  text-align: center;
+  margin-top: 4%;
+  padding: 0.5%;
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 10px rgba(148, 148, 184, 0.8);
+  -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184, 0.8);
+  -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184, 0.8);
+  position: relative;
+}
+.pVision {
+  font-family: sans-serif;
+  text-align: justify;
+  columns: 80px 2;
+  gap: 3rem;
+  padding: 0 20px 20px 20px;
+  width: 90%;
+  margin: auto;
+}
+
+.margin_align{
+  margin: auto;
+  text-align: center;
+}
+
+.darkmode--activated .pVision{
+  color: white;
+}
+.darkmode--activated .margin_align{
+  color: purple;
+}

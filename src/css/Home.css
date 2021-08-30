@@ -1,0 +1,73 @@
+
+
+
+.minedivH{
+    margin: 0 auto;
+    font-size: 1.3em;
+}
+.div_Pach{
+    position: absolute;
+    left: 15%;
+    bottom: 15%;
+    text-align: center;
+    /* font-size: 1.em; */
+    /* transform: scaleY(3.5); */
+    color: white;
+    /* letter-spacing: 8px; */
+    /* top: 1%; */
+    /* width: 30%; */
+}
+.div_Pach h1{
+    font-size: 55px;
+    letter-spacing: 8px;
+    font-family: sans-serif;
+    font-weight: 70;
+    /* transform: scaleY(0.884714); */
+    transform: scaleY(2.2);
+}
+.div_WELCOM{
+    margin: 0 auto; 
+    margin-top:  4% ;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(148, 148, 184,0.8);
+    width: 80%;
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    /* background-image: url(../components/images/d.jpg);  */
+    /* background-size: cover; */
+    padding: 0.05%;
+} 
+/* .div_WELCOM:before {
+    content: "";
+    background-color: rgba(85, 85, 92, 0.5);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px; 
+    width: 100%;
+    margin: 0 auto;
+} */
+.div_WELCOM h1{
+    word-spacing: 50px;
+    /* margin-bottom: 20%; */
+}
+.chailddiv h2:nth-child(3){
+    margin-top: 10%;
+}
+.slick-arrow{
+    display: none !important;
+}
+
+
+.darkmode--activated 
+.div_WELCOM h1{
+    color: purple;
+}
+.darkmode--activated 
+.div_WELCOM{
+    color: white;
+}
